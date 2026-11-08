@@ -16,7 +16,7 @@ println!("Gia tri cua PI la {}",PI);
 
 let x=x+1; // shadowing variable (can be changed)
 println!("x la {}",x);
-let mut y=y*2; 
+let mut y=y*2;  
 println!("y la {}",y);
 y=y+1;
 println!("y la {}",y);
